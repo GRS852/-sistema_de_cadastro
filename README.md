@@ -4,6 +4,7 @@
 
 Para rodar esse projeto na sua máquina, por favor digite:
 
-```
-nods js app.js
-```
+´´´
+nods js app.js 
+´´´
+
